@@ -18,3 +18,9 @@ first i completed the wiring of my schematics, then i added global labels to wir
 <img width="1621" height="754" alt="Screenshot 2026-05-07 202713" src="https://github.com/user-attachments/assets/408182ba-dd4b-4cd1-b169-e4494d653904" />
 
 **Total time spent: 45min**
+
+# May 8th: working/wiring PCB
+just did a lil bit wiring and it's 01:51am am im feeling sleepy so imma just gonna sleep!
+<img width="1009" height="717" alt="Screenshot 2026-05-08 015319" src="https://github.com/user-attachments/assets/cdeac748-5f8f-4d75-a8a5-99c419c485b7" />
+
+**Total time spent: 22min**
