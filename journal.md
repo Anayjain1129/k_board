@@ -12,3 +12,9 @@ lapse link: https://lapse.hackclub.com/timelapse/YrQlb_RHFgfU
 <img width="1919" height="1079" alt="Screenshot 2026-05-03 045342" src="https://github.com/user-attachments/assets/4e72edd2-1ffd-485c-a427-14dc6911534f" />
 
 **Total time spent: 40min**
+
+# May 7th: completed my schematics!!
+first i completed the wiring of my schematics, then i added global labels to wire the switches with my MCU after that i assigned the footprints of my components! after that i tweaked my keyboard layout a bit! then i started with PCB , placed the components! and wired lil bit of diodes! <img width="1787" height="575" alt="Screenshot 2026-05-07 202624" src="https://github.com/user-attachments/assets/5493dbd9-a62c-47ea-afe1-9e50190d628c" />
+<img width="1621" height="754" alt="Screenshot 2026-05-07 202713" src="https://github.com/user-attachments/assets/408182ba-dd4b-4cd1-b169-e4494d653904" />
+
+**Total time spent: 45min**
