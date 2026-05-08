@@ -24,3 +24,9 @@ just did a lil bit wiring and it's 01:51am am im feeling sleepy so imma just gon
 <img width="1009" height="717" alt="Screenshot 2026-05-08 015319" src="https://github.com/user-attachments/assets/cdeac748-5f8f-4d75-a8a5-99c419c485b7" />
 
 **Total time spent: 22min**
+
+# May 9th: wiring PCB
+I just did wiring!! and aahhhh it's tuff wiring is tuff i have to use so many via it's still not done yet too! i have so much left that needs to be completed! 
+<img width="1386" height="774" alt="Screenshot 2026-05-09 034310" src="https://github.com/user-attachments/assets/ca615bcb-61dd-4b87-841f-3b143fc35ef9" />
+
+**Total time spent: 1hr 22min**
