@@ -35,4 +35,10 @@ I just did wiring!! and aahhhh it's tuff wiring is tuff i have to use so many vi
 Completed all the wiring! In the process i had not actually faced any issues, i tried to have a very unique pcb shape which is to be honest practical and looks very practical! i just had gnd connections left to be connected! so i used fill zone to do that! and via using it my PCB looks pretty cool, i know it looks a bit off not because of no silkscreen but yea! im gonna add it soon, im ending this season here! cause im taking a break for now and uploading a lapse (yes im afraid i'll loose it) so yea! that's it! will take a small break and then start to put the 3d models of the switch so that my pcb looks clean and i get awesome renders lol! (and silkscreen too)
 <img width="1242" height="623" alt="Screenshot 2026-05-10 005926" src="https://github.com/user-attachments/assets/45acf944-af2d-4c37-938c-01ff0a172089" />
 
-**Total time spent: 1hr 
+**Total time spent: 1hr**
+
+# May 10th: Switches model assigned & PCB ready for redering 
+just assigned 3d models of all the switches in the PCB, there were few places where wiring was not done, so i wierd them too! now the PCB is ready for rendering (looks pretty).
+<img width="1173" height="724" alt="Screenshot 2026-05-10 155823" src="https://github.com/user-attachments/assets/9d420072-e737-46c0-bffa-b33be578fe3a" />
+
+**Total time spent: 38min**
