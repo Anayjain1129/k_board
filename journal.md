@@ -42,3 +42,14 @@ just assigned 3d models of all the switches in the PCB, there were few places wh
 <img width="1173" height="724" alt="Screenshot 2026-05-10 155823" src="https://github.com/user-attachments/assets/9d420072-e737-46c0-bffa-b33be578fe3a" />
 
 **Total time spent: 38min**
+
+# May 11th: started with case
+i faced soo many issuess ahhhh, i didn't knew how to measure the angle/degree in kicad and i spent all this time to learn this, shiii!! but yea i was able to make this! i have made the shape of my keyboard! and i'll make mroe tmr! my brain is cooked. that's it for today! 
+
+<img width="943" height="494" alt="Screenshot 2026-05-11 231113" src="https://github.com/user-attachments/assets/4e0408df-860c-42e5-b86b-18ef135b6ec4" />
+<img width="350" height="410" alt="Screenshot 2026-05-11 232355" src="https://github.com/user-attachments/assets/fc6fdd9c-1a5f-4d20-9739-4722f0cbf6a2" />
+<img width="411" height="272" alt="Screenshot 2026-05-11 232401" src="https://github.com/user-attachments/assets/1a487a45-fa91-4c32-af09-e31d9f26895d" />
+<img width="436" height="396" alt="Screenshot 2026-05-11 232601" src="https://github.com/user-attachments/assets/2be157e4-9f07-477c-9868-154d2570c1b9" />
+<img width="436" height="396" alt="Screenshot 2026-05-11 232601" src="https://github.com/user-attachments/assets/f6067f30-ba1f-4168-bcab-ea40e5169dc4" />
+
+**Total time spent: 50min**
