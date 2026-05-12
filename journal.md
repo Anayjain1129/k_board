@@ -53,3 +53,10 @@ i faced soo many issuess ahhhh, i didn't knew how to measure the angle/degree in
 <img width="436" height="396" alt="Screenshot 2026-05-11 232601" src="https://github.com/user-attachments/assets/f6067f30-ba1f-4168-bcab-ea40e5169dc4" />
 
 **Total time spent: 50min**
+
+# May 12th: Making Case
+worked on case, made a a very basic case and i think i have soooo many ideas i can make many thingg on the case i.e. designs!
+
+<img width="1653" height="693" alt="Screenshot 2026-05-12 234516" src="https://github.com/user-attachments/assets/e9270ac8-80d7-4853-a3b9-9827ed87791b" />
+
+**Total time spent: 20min**
