@@ -60,3 +60,10 @@ worked on case, made a a very basic case and i think i have soooo many ideas i c
 <img width="1653" height="693" alt="Screenshot 2026-05-12 234516" src="https://github.com/user-attachments/assets/e9270ac8-80d7-4853-a3b9-9827ed87791b" />
 
 **Total time spent: 20min**
+
+# May 13th: Made holes for screws! 
+made the holes for screws! im using m3 screws. which will be ordered from amazon! just made the holes for screws
+
+<img width="1754" height="873" alt="Screenshot 2026-05-13 235305" src="https://github.com/user-attachments/assets/57438434-5584-46bd-8f57-72a59659a247" />
+
+**Total time spent: 7min**
