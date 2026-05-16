@@ -67,3 +67,12 @@ made the holes for screws! im using m3 screws. which will be ordered from amazon
 <img width="1754" height="873" alt="Screenshot 2026-05-13 235305" src="https://github.com/user-attachments/assets/57438434-5584-46bd-8f57-72a59659a247" />
 
 **Total time spent: 7min**
+
+# May 16th: Working on case
+i just worked on case! the case will have 3 parts in total first bottom, second the middle plate which will hold the switches together, and then the last part top which will make it look cooler lol. i was jus brainstorming and i thought to make cyberpunk themed keyboard, i remember a hackclubber who made cyberpunk themed macropad, and it looked soo awesome so yea im gonna make it in cyberpunk theme too and for now i almost everything is done! now i just have too add more designs i have added a lil bit of designs but i still need to add more so yea! 
+<img width="1706" height="952" alt="Screenshot 2026-05-16 214544" src="https://github.com/user-attachments/assets/7be3b788-b312-49a4-b971-b00250068d88" />
+<img width="1569" height="932" alt="Screenshot 2026-05-16 214644" src="https://github.com/user-attachments/assets/8dfaa13f-4653-4fab-88b3-1b95208088b4" />
+<img width="1487" height="898" alt="Screenshot 2026-05-16 214717" src="https://github.com/user-attachments/assets/f621aa99-dd8c-4224-bc95-8f236a363e68" />
+
+**Total time spent: 1hr 36min**
+
