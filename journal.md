@@ -76,3 +76,11 @@ i just worked on case! the case will have 3 parts in total first bottom, second 
 
 **Total time spent: 1hr 36min**
 
+# May 19th: made the top look good
+I worked mostly on the top part of the case and ig it looks pretty good now! i think everything looks good except the uh, the side of the case and the bottom of case im still brainstorming what to do on it, but yea im gonna work more on case part tmr! here are the screenshots from today's update- 
+<img width="1784" height="941" alt="Screenshot 2026-05-19 162222" src="https://github.com/user-attachments/assets/0a39cc32-393b-4db1-b13c-37515fad9de8" />
+<img width="1317" height="775" alt="Screenshot 2026-05-19 162333" src="https://github.com/user-attachments/assets/59b2f146-ae7f-4bb8-a085-2a66a73f0a02" />
+<img width="1658" height="709" alt="Screenshot 2026-05-19 162718" src="https://github.com/user-attachments/assets/b7dc8c2d-f723-49b9-9613-5ed560773f82" />
+<img width="1264" height="741" alt="Screenshot 2026-05-19 204400" src="https://github.com/user-attachments/assets/1cc91526-61cc-4807-a6f3-0bc698143b16" />
+
+**Total time spent: 1hr 38min**
