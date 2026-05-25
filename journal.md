@@ -84,3 +84,10 @@ I worked mostly on the top part of the case and ig it looks pretty good now! i t
 <img width="1264" height="741" alt="Screenshot 2026-05-19 204400" src="https://github.com/user-attachments/assets/1cc91526-61cc-4807-a6f3-0bc698143b16" />
 
 **Total time spent: 1hr 38min**
+
+# May 26th: worked on the design of bottom of the case
+I was in locking huddle wtih some of my friends, i wokred mostly on graphics part  and also found what all things/ cyberpunk elements to add in the case cause the bottom of the case was soo plane and wa looking plane, so i'm add more designs on the bottom. rest now im gonna work more on this tmr! here are the screenshots.
+<img width="1159" height="669" alt="image" src="https://github.com/user-attachments/assets/dade374f-b5d5-4687-b9f0-fe79883ac6e5" />
+<img width="1673" height="766" alt="image" src="https://github.com/user-attachments/assets/2faf5285-2ddf-448a-a980-9c5f4a88ec36" />
+
+**Total time spent: 45min**
