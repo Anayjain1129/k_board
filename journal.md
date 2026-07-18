@@ -92,10 +92,15 @@ I was in locking huddle wtih some of my friends, i wokred mostly on graphics par
 
 **Total time spent: 45min**
 
-# July 18th: resumed to work on keeb and gonna complete it this time!! 
+# July 17/18th: resumed to work on keeb and gonna complete it this time!! 
 so i just made some changes in CAD added more designs and then here is the ss of the assembly, then i started to read the QMK docs cause i'll beb using QMK in this keyboard for the firmware and i did faced a lot of issues during this project but yera at the end i just made through! SCIENCE EXAM TMRR RAWRR SLEEPP!!
 <img width="1288" height="582" alt="image" src="https://github.com/user-attachments/assets/804c3d8a-d344-4da6-9133-e5e65bc2bbfb" />
 <img width="1093" height="475" alt="image" src="https://github.com/user-attachments/assets/e02a81f4-b2d7-4e18-811e-af84a8e3f7d6" />
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/73bac790-9150-4c4f-aa63-9f3c441ebd2c" />
 
 **Total time spent: 2 hours**
+
+# July 18th: Completed Project!
+so i just got back from schl and now i need to lockin like really lockin so yea! i need to do 3.5 hours by 5pm so yea! i just completed everything and setted up github repo and uploaded all the files and stuff! and yea we are done with this project now i just need to submit and make another project!! 
+
+**Total time spent: 36min**
