@@ -2,7 +2,7 @@
 <img width="1735" height="976" alt="image" src="https://github.com/user-attachments/assets/7626939a-00db-4dba-9f69-cbfbb77310a8" />
 <img width="1671" height="789" alt="image" src="https://github.com/user-attachments/assets/beecfa1a-1112-46bd-8da1-972e566bb24f" />
 
-Features:
+# Features:
 
 - Rotary Encoder for volume control
 - Raspberry Pi Pico
