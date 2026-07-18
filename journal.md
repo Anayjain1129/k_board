@@ -104,3 +104,8 @@ so i just made some changes in CAD added more designs and then here is the ss of
 so i just got back from schl and now i need to lockin like really lockin so yea! i need to do 3.5 hours by 5pm so yea! i just completed everything and setted up github repo and uploaded all the files and stuff! and yea we are done with this project now i just need to submit and make another project!! 
 
 **Total time spent: 36min**
+
+# July 18th: project got rejected! and resubmitted! 
+so the project got rejected cause it didn't had BOM now i have added it and now im resubmmitting! 
+
+**Total time spent: 7min**
