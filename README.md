@@ -27,6 +27,7 @@
 <img width="1714" height="758" alt="image" src="https://github.com/user-attachments/assets/efd8eb88-2d38-4909-87f6-f34ddde7622c" />
 <img width="1696" height="981" alt="image" src="https://github.com/user-attachments/assets/317e72db-f2d3-472d-8d40-9ea111ff9f27" />
 
+# BOM
 | Name | Quantity | Cost | Link |
 |------|----------|------|------|
 | TTC Silent Red V3 | 84 | $45.11 | [Buy](https://stackskb.com/store/ttc-silent-red-v3-switch/) |
