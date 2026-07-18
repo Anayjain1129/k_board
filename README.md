@@ -26,3 +26,18 @@
 # 3d View of all parts together
 <img width="1714" height="758" alt="image" src="https://github.com/user-attachments/assets/efd8eb88-2d38-4909-87f6-f34ddde7622c" />
 <img width="1696" height="981" alt="image" src="https://github.com/user-attachments/assets/317e72db-f2d3-472d-8d40-9ea111ff9f27" />
+
+| Name | Quantity | Cost | Link |
+|------|----------|------|------|
+| TTC Silent Red V3 | 84 | $45.11 | [Buy](https://stackskb.com/store/ttc-silent-red-v3-switch/) |
+| Durock Smokey Screw-In Stabilizers V2 (4+1 w/ 6.25u spacebar) | 1 | $17.01 | [Buy](https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/) |
+| EC11 Rotary Encoder with Switch | 1 | $0.00 | Self-sourced |
+| Mount Fuji Premium Moa Profile PBT Keycap | 1 | $28.78 | [Buy](https://curiositycaps.in/products/fugaju-premium-moa-profile-pbt-keycap?_pos=21&_sid=c0043ab41&_ss=r) |
+| Diode 1N4148 Through-Hole | 100 | $1.06 | [Buy](https://www.amazon.in/dp/B084ZP5BJ3) |
+| PCB - (Black Color) | 5 | $40.00 | [Buy](https://jlcpcb.com/) |
+| Raspberry Pi Pico | 1 | $6.40 | [Buy](https://www.amazon.in/Raspberry-Pi-Headers-Soldered-Micro/dp/B08WPNM7JB) |
+| Heatset and Screws | 1 | $0.00 | Self-sourced |
+| Case (top, mid, bot) | 1 | $0.00 | Self-sourced |
+| **Total** | | **$138.36** | |
+
+The price may fluctuate due to dollar market trend
